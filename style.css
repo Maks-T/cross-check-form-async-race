@@ -1,5 +1,8 @@
 body {
   font-family: 'Open Sans', sans-serif;
+  width: 70%;
+  margin: 0 auto;
+  padding: 40px;
 }
 
 table {
@@ -47,6 +50,7 @@ table {
 
     .result {
       text-align: right;
+      margin-top: 40px;
     }
 
     .main-heading {
